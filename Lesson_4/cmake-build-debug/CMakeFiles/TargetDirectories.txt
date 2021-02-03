@@ -1,0 +1,3 @@
+D:/My_repositories/GB_CPP_Base/Lesson_4/cmake-build-debug/CMakeFiles/Lesson_4.dir
+D:/My_repositories/GB_CPP_Base/Lesson_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My_repositories/GB_CPP_Base/Lesson_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
