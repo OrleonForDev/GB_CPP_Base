@@ -30,10 +30,10 @@ int main() {
     }
 
     if (flag){
-        cout << n << " is composite" << endl;    // Простое
+        cout << n << " is composite" << endl;    // Составное
     }
     else{
-        cout << n << " is prime" << endl;       //Составное
+        cout << n << " is prime" << endl;       // Простое
     }
     cout << endl;
 
