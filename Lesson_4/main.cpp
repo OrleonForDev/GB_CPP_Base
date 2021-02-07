@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     // Task 1
-    int a, b, sum;
+    int a = 0, b = 0, sum = 0;
     cout << "Task 1" << endl;
     cout << "Please, enter 2 numbers" << endl;
     cin >> a >> b;
@@ -20,7 +20,7 @@ int main() {
     //Task 2
     cout << "Task 2" << endl;
     cout << "Please, enter 1 numbers" << endl;
-    int n;
+    int n = 0;
     bool flag = false;
     cin >> n;
     for (int i = 1; i <= n/2; ++i) {
@@ -40,7 +40,7 @@ int main() {
     //Task 3
     cout << "Task 3" << endl;
 
-    const int c = 5;
+    const int c = 5;    // Change value to any number to check
     const int d = 10;
 
     cout << (c == 10 || d == 10 || c+d==10) << endl;
@@ -48,7 +48,7 @@ int main() {
 
     //Task 4
     cout << "Task 4" << endl;
-    int year;
+    int year = 0;
     cout << "Enter the year" << endl;
     cin >> year;
 
