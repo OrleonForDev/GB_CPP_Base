@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 namespace arrayFuncs {    // Task 6
     void ReverseArray(int *array, size_t sizeMas);
 
