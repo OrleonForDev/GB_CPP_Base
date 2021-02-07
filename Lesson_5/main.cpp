@@ -15,7 +15,6 @@ namespace arrayFuncs {    // Task 6
 
 }
 
-
 using namespace arrayFuncs;
 
 int main() {
