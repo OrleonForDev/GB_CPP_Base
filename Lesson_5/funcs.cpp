@@ -43,8 +43,11 @@ namespace arrayFuncs{
         int first = 0;
         int temp = 0;
 
-        if (shift < 0){
-            shift += sizeMas;   // trick for negative shift :)
+        bool left_direction = shift < 0;
+
+        shift = abs(shift) % sizeMas;       //reduce shift
+        if (left_direction){
+            shift = sizeMas - shift;        // trick for negative shift :)
         }
 
         while (shift != 0) {
