@@ -1,0 +1,2 @@
+The class is dependent neither on the character type nor on the nature of
+operations on that type.

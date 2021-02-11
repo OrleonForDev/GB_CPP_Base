@@ -1,0 +1,2 @@
+The class template basic_string stores and manipulates sequences of char-
+like objects, which are non-array objects of trivial standard-layout type.
